@@ -5,7 +5,7 @@ date: 2024-12-23
 
 # Integrating with AI
 
-The tools being created now are unprecedented. They are getting so good. You can use ai to help you write scripts. You can do more than you ever could. These new powers are fascinating, but also worrying. You must learn faster and more, or you will be left entirely behind.
+The tools being created now are unprecedented. They are getting so good. You can use AI to help you write scripts. You can do more than you ever could. These new powers are fascinating but also worrying. You must learn faster and more, or you will be left entirely behind.
 
 A lot of work needs to be done in the world. And now, access to knowledge is even more without permission-less. The Internet allowed us access to an incredible amount of information. We could learn absolutely anything. We had to rely on experts, and other humans, to help us curate and understand the world. Now, with AI, we all have another layer of an assistant, which can help us navigate the internet. It helps us further understand anything and gives us a level of personalization that can help us even more than ever before. Instead of spending time endlessly searching for our answers, we can be directly provided answers to some of our most pertinent questions.
 
